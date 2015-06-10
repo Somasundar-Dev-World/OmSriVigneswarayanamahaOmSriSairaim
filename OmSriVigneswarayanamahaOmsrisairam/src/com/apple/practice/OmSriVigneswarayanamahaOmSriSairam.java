@@ -6,6 +6,7 @@ public class OmSriVigneswarayanamahaOmSriSairam {
 		// TODO Auto-generated method stub
 		System.out.println(" Om Sri Vigneswaraya namaha.... Om Sri Sairam... Om Sri Venkateswaraya namaha... Om sri durga deviyai namaha... Om Sri lakshmi deviyai namaha...s");
 		System.out.println(" Now added new changes to the file");
+		System.out.println(" Now added 2nd line to the file.");
 	}
 
 }
